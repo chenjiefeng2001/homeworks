@@ -1,0 +1,9 @@
+#include <stdio.h>
+int main()
+{
+   int a,b;
+   printf("请输入所需转换的厘米");
+   scanf("%d",&a);
+   c=a*1.56;
+   printf("转化后的英寸数为%d",c);
+}
